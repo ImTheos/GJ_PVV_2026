@@ -1,3 +1,5 @@
-2026/05/26-16:05:39.193 6438 Reusing MANIFEST C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/26-16:05:39.209 6438 Recovering log #3
-2026/05/26-16:05:39.283 6438 Reusing old log C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/27-11:38:12.448 11cc Reusing MANIFEST C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/27-11:38:12.454 11cc Recovering log #3
+2026/05/27-11:38:12.455 11cc Level-0 table #3: started
+2026/05/27-11:38:12.465 11cc Level-0 table #3: 58762 bytes OK
+2026/05/27-11:38:12.472 11cc Delete type=0 #3
