@@ -1,0 +1,29 @@
+[21048:25420:0526/102942.941:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21048:19964:0526/102943.041:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21048:25420:0526/102943.067:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21048:21100:0526/102947.720:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21048:21100:0526/102947.724:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21048:21100:0526/102947.727:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21048:21100:0526/102947.730:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\wazak\GJ_PVV_2026\GJ_PVV_2026\GJ_PVV_2026\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21048:7184:0526/102948.953:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21048:7184:0526/102948.955:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[22056:29260:0526/102952.056:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C6C10B94FEECB7A78F080E1E07AD7702 will be ignored
+[21048:12596:0526/102953.820:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[21048:25420:0526/102954.482:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21048:25420:0526/102954.482:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21048:25420:0526/102954.482:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21048:25420:0526/102954.483:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[21048:12596:0526/102954.491:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[15472:4312:0526/103000.176:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15472:4312:0526/103001.352:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15472:6244:0526/103001.361:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15472:6244:0526/103001.361:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15472:6244:0526/103001.362:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[7816:11268:0526/103209.366:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[21048:25420:0526/103531.067:ERROR:device_event_log_impl.cc(196)] [10:35:30.874] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[21048:25420:0526/104000.795:ERROR:device_event_log_impl.cc(196)] [10:40:00.719] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[21048:25420:0526/104153.482:ERROR:device_event_log_impl.cc(196)] [10:41:53.449] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[21048:25420:0526/104153.483:ERROR:device_event_log_impl.cc(196)] [10:41:53.474] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[21048:25420:0526/104153.815:ERROR:device_event_log_impl.cc(196)] [10:41:53.501] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[21048:25420:0526/104153.815:ERROR:device_event_log_impl.cc(196)] [10:41:53.507] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[21048:25420:0526/104641.978:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
